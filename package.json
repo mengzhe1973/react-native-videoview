@@ -1,6 +1,11 @@
 {
   "name": "react-native-videoview",
   "version": "0.0.1",
+  "main": "VideoView.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengzhe1973/react-native-videoview"
+  },
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
@@ -19,5 +24,7 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "author": "kiros",
+  "license": "MIT"
 }
