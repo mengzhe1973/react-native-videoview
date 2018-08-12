@@ -1,0 +1,4 @@
+#Sun Aug 12 17:03:59 CST 2018
+base.0=E\:\\projects\\react native\\react-native-videoview\\react-native-videoview\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\projects\\react native\\react-native-videoview\\react-native-videoview\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

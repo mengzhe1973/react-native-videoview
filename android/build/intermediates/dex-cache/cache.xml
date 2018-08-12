@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c11dd834d312198d1c52ababcd1eab08174e2ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_d7165175e4d9d6aea92bebc5fa544ac8bc66aa98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_f82c00a3ea977315f9b28328eff34fc7ca0c95ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_358c321c1ddad9a3e6debad8dbfbe0beba1165da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4f80e063c90603857f273564fe05c4d0ebfde0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_687915d0aee650ee3dd15e2f9765662d496584c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_4e800c0a4a539ee1340d73fe5daefbad29ebb587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_aa3e9201bb547384ddbefd35dff537034af5e899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_93cbb550a5f068f1ac7eea42f704e0565ae55113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_6de51df56e1eda1b35a4592994da7bf6e319ce3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_01285c959816e85c302944aaa812ecfe4036e680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_a4847fd2980dec55a19e19dc1c0a28cc46129441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_28a5bfe96b2daa1a7daf75cac8be13020cb757da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_37f0eaf82c99bc55a165c2c185df88647b966a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_74e5d489d01875b2f160ef79654df60a226f340a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_876732b136fb79513ea35f7224e20412dae0d833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_864de53e42766b369121535363ce22be07e01726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_90dac150046d68c6c455f8fef97d2981c0355bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_d9d299841c2e0bda76357c91c9f17ced9ffe748a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_45f9f01a97ec2ca8b8562c9ce4175b4edacd5fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_1fdcf9f536a5b7f82263ea0319d061cbba78b377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a1c5de6f6c2e82c049b4b1672d1d1cc939684441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_1b02e2060f7822aa91f85ad181156ad9d71db706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6224498b8d7e2575317d44a1c471dab5769cfec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_e7c21d14e29383ae69f8fa72aba609cba9aedd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_60b1c7c6b0b07c749526e1e0c44c94f75f80976c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d59365acf656fbe2e31da3e8280388d6140299e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiros_Wang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_abc0f52f0583b8de4f1700dfafa2b9110b8a69b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_2f56b7245d2987624618fe931d720d5ffed8ebf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\projects\react native\react-native-videoview\react-native-videoview\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e07ebd3589156dda8955856dacaf6aa18ad28ee5.jar" />
+    </item>
+
+</items>
