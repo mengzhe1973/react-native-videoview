@@ -91,7 +91,7 @@ VideoView.propTypes = {
     onError:PropTypes.func,
     onBufferUpdate:PropTypes.func,
     onProgress:PropTypes.func,
-    style: View.propTypes.style,
+    // style: View.propTypes.style,
     source:PropTypes.shape({
         url:PropTypes.string,
         headers:PropTypes.object,
